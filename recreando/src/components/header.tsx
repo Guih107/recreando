@@ -1,7 +1,13 @@
+import '../styles/header.css';
 function Header() {
   return (
     <header>
-      <h1>Recreando</h1>
+      <div className="Logo">
+        <h1 className='text'>Recreando</h1>
+        <button className='button-login'>
+          Login
+        </button>
+      </div>
     </header>
   );
 }

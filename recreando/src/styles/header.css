@@ -1,0 +1,34 @@
+.Logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    background-color: coral;
+    color: rgb(255, 255, 255);
+    height: 70px;
+    width: 100%;
+}
+
+.button-login{
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: rgb(87, 252, 252);
+    border-radius: 10px;
+    color: rgb(12, 12, 12);
+    text-decoration: none;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100%;
+}
